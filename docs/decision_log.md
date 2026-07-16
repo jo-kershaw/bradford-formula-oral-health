@@ -1,5 +1,7 @@
 # Decision log
 
+**Last updated:** 16 July 2026
+
 ## 2026-07-16 — Repository ownership
 
 **Decision:** Create the repository in my personal GitHub account
