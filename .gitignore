@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --------------------------------------------------
+# Project-specific
+# --------------------------------------------------
+
+# Generated reports
+reports/figures/*
+reports/tables/*
+
+# Keep the folders
+!reports/figures/.gitkeep
+!reports/tables/.gitkeep
+
+# Synthetic data (do not version-control datasets)
+synthetic_data/*
+!synthetic_data/.gitkeep
+
+# Future generated data
+derived_data/
