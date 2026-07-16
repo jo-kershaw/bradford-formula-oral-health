@@ -1,5 +1,7 @@
 # References
 
+**Last updated:** 16 July 2026
+
 ## Project setup
 
 - ARC Research Software Development
