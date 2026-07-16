@@ -1,5 +1,7 @@
 # Workflow
 
+**Last updated:** 16 July 2026
+
 ## First-time setup
 
 1. Clone repository
