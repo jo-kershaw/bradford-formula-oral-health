@@ -1,5 +1,7 @@
 # How this repository is organised
 
+**Last updated:** 16 July 2026
+
 ## 2026-07-16
 
 ### Repository
