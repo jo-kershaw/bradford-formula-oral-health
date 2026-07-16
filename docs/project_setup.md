@@ -6,8 +6,6 @@
 
 Created on personal GitHub account.
 
-Reason: organisation membership not yet finalised.
-
 ---
 
 ### Directory structure
