@@ -235,3 +235,6 @@ synthetic_data/*
 
 # Future generated data
 derived_data/
+
+# data path
+src/bradford_formula_oral_health/config_local.py
