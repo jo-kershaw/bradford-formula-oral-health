@@ -4,18 +4,18 @@ Python code for studying the association between prescribed low-allergy infant f
 
 ## Running the analysis
 
-Study definitions, including birth dates, prescription requirements and GA age windows, can be changed in `analysis_settings.py`.
+Study definitions, including birth dates, prescription requirements and GA age windows, can be changed in `scripts/analysis_settings.py`.
 
 Run the analysis within the Bradford secure environment:
 
 ```bash
-python run_analysis.py
+python scripts/run_analysis.py
 ```
 
 Generate example figures and tables using synthetic data:
 
 ```bash
-python run_synthetic.py
+python scripts/run_synthetic.py
 ```
 
 ## Outputs

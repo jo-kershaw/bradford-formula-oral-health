@@ -1,7 +1,7 @@
 
 # Analysis decisions
 
-This records the main choices in the current analysis. The study population, exposure and outcome settings are defined in `analysis_settings.py`.
+This records the main choices in the current analysis. The study population, exposure and outcome settings are defined in `scripts/analysis_settings.py`.
 
 ## Study definitions
 
